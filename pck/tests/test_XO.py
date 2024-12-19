@@ -1,4 +1,5 @@
 from softeng.example import print_world
+from game.board import Board
 
 def test_main():
     test = print_world(4)

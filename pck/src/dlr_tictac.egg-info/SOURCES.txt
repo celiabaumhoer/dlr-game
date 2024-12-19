@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/dlr_tictac.egg-info/PKG-INFO
+src/dlr_tictac.egg-info/SOURCES.txt
+src/dlr_tictac.egg-info/dependency_links.txt
+src/dlr_tictac.egg-info/requires.txt
+src/dlr_tictac.egg-info/top_level.txt
+src/game/_init_.py
+src/game/board.py
+src/game/example.py
+tests/test_XO.py
