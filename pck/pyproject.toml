@@ -1,5 +1,5 @@
 [project]
-name = "softeng"
+name = "dlr-tictac"
 version = "1.0.0"
 description = "My first Python project"
 requires-python = ">=3.8"
