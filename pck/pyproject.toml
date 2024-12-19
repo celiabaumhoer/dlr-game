@@ -1,0 +1,13 @@
+[project]
+name = "softeng"
+version = "1.0.0"
+description = "My first Python project"
+requires-python = ">=3.8"
+authors = [
+	{name = "celia baumhoer", email = "cb@dlr.de"}
+]
+
+dependencies = [
+	"numpy",
+	"pandas",
+]

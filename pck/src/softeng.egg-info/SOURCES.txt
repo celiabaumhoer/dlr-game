@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/softeng/_init_.py
+src/softeng/example.py
+src/softeng.egg-info/PKG-INFO
+src/softeng.egg-info/SOURCES.txt
+src/softeng.egg-info/dependency_links.txt
+src/softeng.egg-info/requires.txt
+src/softeng.egg-info/top_level.txt
+tests/test_main.py
