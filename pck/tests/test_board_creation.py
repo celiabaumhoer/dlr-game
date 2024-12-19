@@ -1,5 +1,6 @@
 from game.board import Board
-my_board = Board()
 
-def new_board():
+
+def test_new_board():
+    my_board = Board()
     assert my_board
