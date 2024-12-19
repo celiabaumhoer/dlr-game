@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dlr-tictac
+Version: 1.0.0
+Summary: My first Python project
+Author-email: celia baumhoer <cb@dlr.de>
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
