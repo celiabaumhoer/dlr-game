@@ -1,4 +1,5 @@
-import game.board as game
+from game.board import Board
+my_board = Board()
 
 def new_board():
-    assert(my_board = game.Board())
+    assert my_board
