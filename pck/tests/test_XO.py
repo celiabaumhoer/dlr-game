@@ -1,10 +1,4 @@
-from softeng.example import print_world
 from game.board import Board
-
-def test_main():
-    test = print_world(4)
-    assert(test == "hello world")
-
 
 # Test Function
 def test_marker_validation():
